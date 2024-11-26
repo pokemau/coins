@@ -1,0 +1,17 @@
+C:\Code\coins\bin\Release\net8.0-windows\coins.exe
+C:\Code\coins\bin\Release\net8.0-windows\coins.deps.json
+C:\Code\coins\bin\Release\net8.0-windows\coins.runtimeconfig.json
+C:\Code\coins\bin\Release\net8.0-windows\coins.dll
+C:\Code\coins\bin\Release\net8.0-windows\coins.pdb
+C:\Code\coins\obj\Release\net8.0-windows\coins.Form1.resources
+C:\Code\coins\obj\Release\net8.0-windows\coins.csproj.GenerateResource.cache
+C:\Code\coins\obj\Release\net8.0-windows\coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\coins\obj\Release\net8.0-windows\coins.AssemblyInfoInputs.cache
+C:\Code\coins\obj\Release\net8.0-windows\coins.AssemblyInfo.cs
+C:\Code\coins\obj\Release\net8.0-windows\coins.csproj.CoreCompileInputs.cache
+C:\Code\coins\obj\Release\net8.0-windows\coins.sourcelink.json
+C:\Code\coins\obj\Release\net8.0-windows\coins.dll
+C:\Code\coins\obj\Release\net8.0-windows\refint\coins.dll
+C:\Code\coins\obj\Release\net8.0-windows\coins.pdb
+C:\Code\coins\obj\Release\net8.0-windows\coins.genruntimeconfig.cache
+C:\Code\coins\obj\Release\net8.0-windows\ref\coins.dll
